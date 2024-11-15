@@ -3,8 +3,8 @@ Residência em Software
 
 Grupo 37
 
-Ana Fernanda Marinho Azevedo Alves
+    Ana Fernanda Marinho Azevedo Alves
 
-Reynaldo de Oliveira Santos
+    Reynaldo de Oliveira Santos
 
 Data de entrega: 15 de novembro de 2024
